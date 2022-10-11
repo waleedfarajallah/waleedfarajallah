@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Mobile Development Project
 - 📫 How to reach me 
 - 📱  +966 54 442 8438
-email: waleed.frj.allah@gmail.com
+- email: waleed.frj.allah@gmail.com
 
 <!---
 waleedfarajallah/waleedfarajallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
