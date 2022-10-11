@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React & Dart
 - 💞️ I’m looking to collaborate on Mobile Development Project
 - 📫 How to reach me 
-- 
+- 📱  +966 54 442 8438
 email: waleed.frj.allah@gmail.com
 
 <!---
