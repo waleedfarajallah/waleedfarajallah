@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @waleedfarajallah
-- 👀 I’m interested in Application Development, Web Development and Mobile Development
-- 🌱 I’m currently learning React & Dart
+- 👀 I’m interested in: Application Development, Web Development and Mobile Development
+- 🌱 I’m currently learning: React & Dart
 - 💞️ I’m looking to collaborate on Mobile Development Project
-- 📫 How to reach me 
+- 📫 How to reach me:
 - 📱  +966 54 442 8438
 - 📧 waleed.frj.allah@gmail.com
 
